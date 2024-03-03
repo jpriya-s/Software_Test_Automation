@@ -1,4 +1,4 @@
-# Software_Test_Automation
+# Software Test Automation
 Software development consists of a sequence of steps, Requirement Gathering and Analysis, Design, Coding, Testing and Delivery. Verification and validation are required in each phase to deliver functional and secure software products. Functionality can be tested using Junit, automation testing, and security testing with invalid data and unauthorized access.
 Business requirements should be understood clearly, and all the questions and assumptions should be validated with clients to avoid any mismatches in the latest stages. The design phase makes sure the business requirements are converted to technical requirements. 
 Software design is critical in SDLC because good design delivers the best software product. Maintenance, scalability, standard and latest design principles should be considered while designing software to meet customer needs.
